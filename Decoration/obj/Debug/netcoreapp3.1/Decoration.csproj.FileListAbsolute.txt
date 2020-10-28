@@ -1,0 +1,13 @@
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\bin\Debug\netcoreapp3.1\Decoration.exe
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\bin\Debug\netcoreapp3.1\Decoration.deps.json
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\bin\Debug\netcoreapp3.1\Decoration.runtimeconfig.json
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\bin\Debug\netcoreapp3.1\Decoration.runtimeconfig.dev.json
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\bin\Debug\netcoreapp3.1\Decoration.dll
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\bin\Debug\netcoreapp3.1\Decoration.pdb
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\obj\Debug\netcoreapp3.1\Decoration.csprojAssemblyReference.cache
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\obj\Debug\netcoreapp3.1\Decoration.csproj.CoreCompileInputs.cache
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\obj\Debug\netcoreapp3.1\Decoration.AssemblyInfoInputs.cache
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\obj\Debug\netcoreapp3.1\Decoration.AssemblyInfo.cs
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\obj\Debug\netcoreapp3.1\Decoration.dll
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\obj\Debug\netcoreapp3.1\Decoration.pdb
+D:\A_Code\B_Git\GIT\DesignPatterns\decoration\Decoration\obj\Debug\netcoreapp3.1\Decoration.genruntimeconfig.cache
